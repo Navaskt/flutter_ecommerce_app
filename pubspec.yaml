@@ -44,6 +44,7 @@ dev_dependencies:
   retrofit_generator: ^8.1.0
   json_serializable: ^6.7.1
   riverpod_generator: ^2.4.0
+  analyzer: ^6.4.1
 
 flutter:
 
